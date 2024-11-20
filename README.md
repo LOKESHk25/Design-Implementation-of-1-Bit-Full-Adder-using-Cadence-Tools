@@ -1,4 +1,4 @@
-# Exp No:5 Design-Implementation-of-1-Bit-Full-Adder-using-Cadence-Tools
+# Exp No:5 Design and simulate a Binary Adder using Cadence EDA 
  
 
 ## Aim:
